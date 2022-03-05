@@ -19,9 +19,21 @@ Desain :
  
  ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/plane.png)
  
- 3. Driver
+ 3. Vehicle
+ 
+ ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/vehicle.png)
+ 
+ 4. Driver
  
  ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/driver1.png)
  
  ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/driver2.png)
+ 
+ 5. Person
+
+ ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/person.png)
+ 
+ 6. Job
+ 
+ ![alt text](https://github.com/aliefabdillah/LATIHAN4DPBO2022/blob/main/screenshot4/job.png)
 
